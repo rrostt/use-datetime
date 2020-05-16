@@ -16,7 +16,9 @@
   "license": "MIT",
   "peerDependencies": {
     "react": "^16.13.0",
-    "react-dom": "^16.13.0",
+    "react-dom": "^16.13.0"
+  },
+  "dependencies": {
     "moment": "^2.24.0"
   },
   "devDependencies": {
