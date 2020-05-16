@@ -11,7 +11,12 @@
     "type": "git",
     "url": "git://github.com/rrostt/use-datetime"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "hooks",
+    "time",
+    "date"
+  ],
   "author": "Mattias Rost",
   "license": "MIT",
   "peerDependencies": {
